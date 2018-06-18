@@ -1,0 +1,8 @@
+body{
+    font-family:sans-serif;
+    color: yellow;
+    font-size:24px;
+    background-image: url(images/milky.jpg);
+    background-size: auto;
+    margin: auto;
+}
